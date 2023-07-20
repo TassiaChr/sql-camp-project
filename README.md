@@ -4,7 +4,7 @@
    + *Creation of database table "campData"*
    + *Bulk insert operation from "campData.txt"*
 
- ### 2. Normalization
++ ### 2. Normalization
    + *Database normalization*
    + *Creation of a relational database*
 
