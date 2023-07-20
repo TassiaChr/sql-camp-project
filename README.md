@@ -1,8 +1,8 @@
 # sql-camp-project
 
-### 1. Bulk-insert
-   *Creation of database table "campData"
-   Bulk insert operation from "campData.txt"*
+### + 1. Bulk-insert
+   + *Creation of database table "campData"
+   + Bulk insert operation from "campData.txt"*
 
 ### 2. Normalization
    Database normalization
