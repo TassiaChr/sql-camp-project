@@ -1,6 +1,6 @@
 # sql-camp-project
 
-# 1. Bulk-insert
+## 1. Bulk-insert
    Creation of database table "campData"
    Bulk insert operation from "campData.txt"
 
